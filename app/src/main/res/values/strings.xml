@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Collage-Project</string>
+
+    <!-- No Internet Screen -->
+    <string name="no_internet_title_text">No internet connection!</string>
+    <string name="no_internet_sub_title_text">Make sure will or cellular data is turned on and then try again</string>
+    <string name="no_internet_button_text">Try again</string>
+    <string name="no_internet_snackbar_text">Please turn on internet connection.</string>
+    <string name="request_fail_err">Request failed.Please try again after some time.</string>
+    <string name="user_block">User successfully blocked!</string>
+    <string name="no_data_title_text">No data available</string>
+    <!--    <string name="no_data_title_text">3...2...1...Oops!</string>-->
+    <string name="no_data_title_sub_text">Nothing to show here at the moment please check back later</string>
+
+    <!-- Back Dialog Box -->
+    <string name="quickMessage">Are you sure you want to Quite?</string>
+    <string name="dialog_button_text_no">No</string>
+    <string name="dialog_button_text_yes">Yes</string>
+
+    <!-- Home Screen SIDE MENU OPTION-->]
+    <string name="home_side_menu_rate_us">Rate Us</string>
+    <string name="home_side_menu_share_app">Share App</string>
+    <string name="home_side_menu_privacy_policy">Privacy Policy</string>
+
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>

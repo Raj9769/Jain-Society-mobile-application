@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="native_ad_elevation">15dp</dimen>
+    <dimen name="native_ad_margin">8dp</dimen>
+
+    <!-- Launch Screen -->
+    <dimen name="button_width">250dp</dimen>
+    <dimen name="button_height">60dp</dimen>
+    <dimen name="dp14">14dp</dimen>
+    <dimen name="dp1">2dp</dimen>
+    <dimen name="sp14">14sp</dimen>
+    <dimen name="sp16">16sp</dimen>
+
+    <!-- No Internet Screen -->
+    <dimen name="no_internet_title_size">22sp</dimen>
+    <dimen name="no_internet_sub_title_size">18sp</dimen>
+
+    <!-- Ad Dialog Box -->
+    <dimen name="ad_dialog_size">70dp</dimen>
+    <dimen name="ad_dialog_margin">15dp</dimen>
+    <dimen name="ad_dialog_card_corner">15dp</dimen>
+    <dimen name="ad_dialog_lottie_size">55dp</dimen>
+
+    <!-- Camera Activity -->
+    <dimen name="flash_card_width">40dp</dimen>
+    <dimen name="flash_card_height">40dp</dimen>
+    <dimen name="flash_card_top_margin">15dp</dimen>
+    <dimen name="flash_card_end_margin">10dp</dimen>
+    <dimen name="flash_card_corner">19dp</dimen>
+    <dimen name="camera_card_size">340dp</dimen>
+    <dimen name="camera_card_margin">26dp</dimen>
+    <dimen name="camera_card_corner">170dp</dimen>
+    <dimen name="camera_scanner_size">350dp</dimen>
+    <dimen name="camera_scanner_start_margin">20dp</dimen>
+    <dimen name="camera_scanner_end_margin">20dp</dimen>
+    <dimen name="camera_button_width">70dp</dimen>
+    <dimen name="camera_button_height">70dp</dimen>
+    <dimen name="camera_button_bottom_margin">20dp</dimen>
+    <dimen name="camera_back_button_width">30dp</dimen>
+    <dimen name="camera_back_button_height">30dp</dimen>
+    <dimen name="camera_gallery_button_width">30dp</dimen>
+    <dimen name="camera_gallery_button_height">30dp</dimen>
+</resources>
